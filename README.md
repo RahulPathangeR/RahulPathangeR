@@ -14,14 +14,8 @@
 - 💬 Ask me about **Python, C++, C, Java**
 - 📫 Reach me at **pathange.rahul@gmail.com**
 - 🧠 Always curious, always coding
-<p align="left">
-  <a href="https://www.linkedin.com/in/rahul-pathange target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pathange.rahul@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rahul-pathange) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pathange.rahul@gmail.com)
 
 ---
 
